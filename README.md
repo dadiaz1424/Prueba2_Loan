@@ -1,2 +1,2 @@
-# Prueba2_Loan
-Prueba Loan
+# banquito-ws-loan
+Repository for backend Administration microservice web service
